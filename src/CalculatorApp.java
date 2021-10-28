@@ -97,7 +97,7 @@ public class CalculatorApp extends JFrame implements ActionListener{
         panel.setBackground(Color.GREEN);
 
         frame.add(panel);
-        frame.setSize(200, 220);
+        frame.setSize(400, 220);
         frame.show();
 
     }
